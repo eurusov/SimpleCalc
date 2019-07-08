@@ -1,2 +1,2 @@
 # SimpleCalc
-Test task for learning Java. Simple calculator with ability to perform operations on Arabic and Roman numerals.
+Test task to study Java programming language. This is the Simple calculator with ability to perform operations on Arabic and Roman numerals.
